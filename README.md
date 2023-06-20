@@ -11,6 +11,8 @@
 ### 👨‍🦱 About Me :
 
 I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a passionate Java developer with expertise in building robust and scalable web applications. 
+With a strong foundation in Java and experience in Spring Boot, Jenkins, Docker, and SQL, I am dedicated to delivering high-quality software solutions.
 
 ---
 
