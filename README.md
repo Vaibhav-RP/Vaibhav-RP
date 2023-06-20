@@ -13,9 +13,9 @@ I am a passionate Java developer with expertise in building robust and scalable 
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile URL]
-- Email: [Your Email Address]
-- Personal Website: [Your Personal Website URL]
+- LinkedIn: https://www.linkedin.com/in/vaibhav-patil-vrp/
+- Email: vrp8698231262@gmail.com
+
 
 Feel free to reach out to me if you have any questions or opportunities for collaboration. I'm always open to learning and working on exciting projects!
 
