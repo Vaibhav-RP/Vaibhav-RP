@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello, I'm Vaibhav Patil 👋
 
-<!--
-**Vaibhav-RP/Vaibhav-RP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a passionate Java developer with expertise in building robust and scalable web applications. With a strong foundation in Java and experience in Spring Boot, Jenkins, Docker, and SQL, I am dedicated to delivering high-quality software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Programming Languages:** Java, SQL
+- **Frameworks:** Spring Boot
+- **DevOps Tools:** Jenkins, Docker
+- **Database Systems:** MySQL, PostgreSQL
+
+## Get in Touch
+
+- LinkedIn: [Your LinkedIn Profile URL]
+- Email: [Your Email Address]
+- Personal Website: [Your Personal Website URL]
+
+Feel free to reach out to me if you have any questions or opportunities for collaboration. I'm always open to learning and working on exciting projects!
+
