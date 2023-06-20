@@ -1,5 +1,7 @@
 # Hello, I'm Vaibhav Patil 👋
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 ## About Me
 
 I am a passionate Java developer with expertise in building robust and scalable web applications. With a strong foundation in Java and experience in Spring Boot, Jenkins, Docker, and SQL, I am dedicated to delivering high-quality software solutions.
