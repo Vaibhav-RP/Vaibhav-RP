@@ -28,5 +28,5 @@ With a strong foundation in Java and experience in Spring Boot, Jenkins, Docker,
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </p>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhav-RP)](https://github.com/anuraghazra/github-readme-stats)
 
